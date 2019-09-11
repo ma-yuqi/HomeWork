@@ -2,7 +2,7 @@ import java.util.*;
 public class dingjifen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-            System.out.println("ĘäČëÉĎĎŢĄ˘ĎÂĎŢŁş");
+            System.out.println("输入上限、下限");
             double a = input.nextDouble();
             double b = input.nextDouble();
             double sum = 0;
