@@ -1,8 +1,8 @@
 import java.util.*;
-public class A {
+public class dingjifen {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-            System.out.println("输入上限、下限：");
+            System.out.println("臉盲膶毛脡膸膸泞膭藰膸脗膸泞艁艧");
             double a = input.nextDouble();
             double b = input.nextDouble();
             double sum = 0;
