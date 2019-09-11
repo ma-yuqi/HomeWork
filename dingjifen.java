@@ -11,7 +11,7 @@ public class dingjifen {
                 double x = y(a, b,100000.0, j);
                 sum = sum + f(x);
             }
-            System.out.print("f(x)=sinx");
+            System.out.print("f(x)=sinx积分为：");
             System.out.println(sum * c);
         }
     public static double f(double x) {
