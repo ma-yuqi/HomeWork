@@ -5,17 +5,17 @@ public class nursery_for{
 				System.out.println(i+" bottles of beer on the wall,"+i+" bottles of beer");
 				System.out.println("Take one down");
 				System.out.println("pass it around");
-				System.out.println((i-1)+" bottles of beer on the wall");
+				System.out.println((i-1)+" bottles of beer on the wall\n");
 				}else if(i==2){
 				System.out.println(i+" bottles of beer on the wall,"+i+" bottles of beer");
 				System.out.println("Take one down");
 				System.out.println("pass it around");
-				System.out.println((i-1)+" bottle of beer on the wall");
+				System.out.println((i-1)+" bottle of beer on the wall\n");
 				}else if(i==1){
 				System.out.println(i+" bottle of beer on the wall,"+i+" bottle of beer");
 				System.out.println("Take one down");
 				System.out.println("pass it around");
-				System.out.println((i-1)+" bottle of beer on the wall");
+				System.out.println((i-1)+" bottle of beer on the wall\n");
 				}else {
 				System.out.println("No more bottles of beer on the wall");
 			}
